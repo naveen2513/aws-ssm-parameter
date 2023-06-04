@@ -10,7 +10,7 @@ parameters = [
   { name = "dev.cart.redis_host", value = "http://redis.naveendevops2.online:8080" },
   { name = "dev.cart.catalogue_host", value = "http://catalogue.naveendevops2.online:8080" },
   { name = "dev.cart.catalogue_port", value = "8080" },
-  { name = "dev.user.mongo", value = "MONGO=TRUE" },
+  { name = "dev.user.mongo", value = "MONGO=true" },
   { name = "dev.user.redis_host", value = "http://redis.naveendevops2.online:8080" },
   { name = "dev.user.mongo_url", value = "http://mongodb.naveendevops2.online:8080" },
 
