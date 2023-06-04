@@ -9,7 +9,11 @@ parameters = [
   { name = "dev.catalogue.mongo_url", value = "mongodb://mongodb.naveendevops2.online:27017/catalogue" },
   { name = "dev.cart.redis_host", value = "http://redis.naveendevops2.online:8080" },
   { name = "dev.cart.catalogue_host", value = "http://catalogue.naveendevops2.online:8080" },
-  { name = "dev.cart.catalogue_port", value = "8080" }
+  { name = "dev.cart.catalogue_port", value = "8080" },
+  { name = "dev.user.mongo", value = "MONGO=TRUE" },
+  { name = "dev.user.redis_host", value = "http://redis.naveendevops2.online:8080" },
+  { name = "dev.user.mongo_url", value = "http://mongodb.naveendevops2.online:8080" },
+
 
 
 ]
