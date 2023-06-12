@@ -13,7 +13,7 @@ parameters = [
   { name = "dev.user.mongo", value = "MONGO=true" },
   { name = "dev.user.redis_host", value = "redis.naveendevops2.online" },
   { name = "dev.user.mongo_url", value = "mongodb://mongodb.naveendevops2.online:27017/users" },
-  { name = "dev.shipping.cart_endpoint", value = "cart.naveendevops2.online" },
+  { name = "dev.shipping.cart_endpoint", value = "cart.naveendevops2.online:8080" },
   { name = "dev.shipping.db_host", value = "mysql.naveendevops2.online" },
   { name = "dev.shipping.db_user", value = "root" },
   { name = "dev.shipping.db_password", value = "RoboShop@1" },
