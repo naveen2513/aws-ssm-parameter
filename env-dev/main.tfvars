@@ -28,5 +28,4 @@ passwords = [
   { name = "dev.payment.amqp_pass", value = "roboshop123" },
   { name = "dev.shipping.db_password", value = "RoboShop@1" }
 
-
 ]
