@@ -19,7 +19,7 @@ parameters = [
   { name = "dev.payment.cart_host", value = "cart.naveendevops2.online" },
   { name = "dev.payment.cart_port", value = "8080" },
   { name = "dev.payment.user_host", value = "user.naveendevops2.online" },
-  { name = "dev.payment.user-port", value = "8080" },
+  { name = "dev.payment.user_port", value = "8080" },
   { name = "dev.payment.amqp_host", value = "rabbitmq.naveendevops2.online" },
   { name = "dev.payment.amqp_user", value = "roboshop" }
 
